@@ -1,0 +1,13 @@
+EXERCISE=MP
+STANDARDIZATION=False
+SCALING_TYPE=znorm
+IGNORE_X_COORDINATE=True
+MERGE_TYPE=normal
+BASE_PATH=Research/Data/HumanPoseEstimation
+FULL_COORDINATES_PATH=OpenPoseCoordinatesRaw
+SEGMENTED_COORDINATES_DIR=SegmentedCoordinates
+SEGMENT_STATS_DIR=SegmentStats
+MAX_PEAKS_TIME_SERIES=13
+INCREMENT=1
+SEGMENT_INFO_FILE=Research/Projects/FinalBodyMTS/data_info/sync_frames_MP.json
+COMMON_PIDS=

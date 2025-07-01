@@ -1,0 +1,10 @@
+INPUT_DATA_PATH = TrainTestData
+BASE_PATH=Research/Data/HumanPoseEstimation
+EXERCISE = MP
+CLASSIFIER_TYPE = resnet
+EPOCHS = 600
+MULTICLASS_CLASSIFICATION = True
+MULTICLASS_DIR = MulticlassSplit
+OUTPUT_PATH =  Results/Output
+DATA_TYPE = default_type
+SEED_VALUES=103007
